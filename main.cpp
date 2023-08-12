@@ -15,7 +15,7 @@ int main() {
     cout << "Enter num2 ";
     cin >> num2;
     
-    cout << num1+num2 ;
+    cout << "The total is :" << num1+num2  ;
     
     return 0;
 }
