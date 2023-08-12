@@ -5,8 +5,7 @@
 using namespace std;
 
 int main() {
-    // Write C++ code here
-    std::cout << "Hello world!";
+    std::cout << "Hello, this is a simple C++ warmup practice";
     
     int num1;
     int num2;
